@@ -16,8 +16,8 @@ To setup & run, use [Poetry](https://python-poetry.org/) for Python.
 
 ```sh
 # clone repository
-git clone git@github.com:virajsazzala/os-dp.git
-cd daisq
+git clone git@github.com:virajsazzala/oc-dp.git
+cd os-dp
 
 # create .env file (put the client id here)
 touch .env
